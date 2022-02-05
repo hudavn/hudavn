@@ -7,3 +7,4 @@ This is my road and works to make my own revolution.
 
 Most of the time is spent on self-research and working as a freelancer.
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hudavn)](https://github.com/anuraghazra/github-readme-stats)
