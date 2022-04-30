@@ -2,8 +2,6 @@
 
 ✨ I'm a Data Scientist, studying Bachelor - Data Science at University of Science, Ho Chi Minh City, Vietnam.
 
-✨ This is my road and works to make my own revolution. Most of the time is spent on self-research and working as a freelancer.
-
 ### Connect with me 
   [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hudavn)
   [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/madx3#7543)
