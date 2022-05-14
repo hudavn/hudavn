@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Dat N.
 
-✨ I'm a Data Scientist, studying Bachelor - Data Science at University of Science, Ho Chi Minh City, Vietnam.
 
 ### Connect with me 
   [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hudavn)
